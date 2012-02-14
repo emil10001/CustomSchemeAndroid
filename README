@@ -1,0 +1,3 @@
+This app will launch when a spcific url is clicked on the device, and will display the contents of query paramater var=x in the main view once launched.
+
+The app is currently set to respond to the following url: http://test.feigdev.com/?var=2342
